@@ -1,6 +1,8 @@
 # InstPloy Cursor Plugin
 
-Installable Cursor plugin that connects to InstPloy MCP.
+Cursor-only plugin that connects to InstPloy MCP.
+
+> ChatGPT / Codex users: use the separate package `instploy-chatgpt-plugin`.
 
 ## What you get on install
 

@@ -1,13 +1,15 @@
 {
   "name": "instploy",
   "displayName": "InstPloy",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Connect Cursor to InstPloy MCP. On install, set your MCP URL and Bearer token (or run /connect-instploy and paste your JSON).",
   "author": {
     "name": "Rightechs Solutions"
   },
-  "keywords": ["instploy", "odoo", "mcp", "deployment"],
+  "homepage": "https://github.com/InstPloy/instploy-cursor-plugin",
+  "repository": "https://github.com/InstPloy/instploy-cursor-plugin",
   "license": "MIT",
+  "keywords": ["instploy", "odoo", "mcp", "deployment", "cursor"],
   "variables": {
     "type": "object",
     "properties": {
