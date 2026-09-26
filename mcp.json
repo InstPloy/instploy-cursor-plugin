@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "instploy": {
+      "url": "${INSTPLOY_URL}",
+      "headers": {
+        "Authorization": "Bearer ${INSTPLOY_TOKEN}"
+      }
+    }
+  }
+}
